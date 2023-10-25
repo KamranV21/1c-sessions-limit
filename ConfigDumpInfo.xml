@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ОНС_ОграничениеНаЗапускВызовСервера" id="686a2e79-ca06-499a-8ff7-828ec9114785" configVersion="6408fe3684779d488bd29dbca478e8249d6c92ba"/>
+		<Metadata name="CommonModule.ОНС_ОграничениеНаЗапускВызовСервера.Module" id="686a2e79-ca06-499a-8ff7-828ec9114785.0" configVersion="fc9fdb911a7c5aa47f1b6b8f5c6aebe264f7fdd6"/>
+		<Metadata name="CommonModule.ОНС_ОграничениеНаЗапускКлиент" id="5095f2e6-360e-44fe-b24e-c11674bc801b" configVersion="acdd4749f19a1de90026b9f20940098a65086894"/>
+		<Metadata name="CommonModule.ОНС_ОграничениеНаЗапускКлиент.Module" id="5095f2e6-360e-44fe-b24e-c11674bc801b.0" configVersion="db760e36d8d964f1e824b2a85c4e69ff3bfb45bd"/>
+		<Metadata name="Configuration.ОграничениеНаЗапускНесколькихСеансов" id="9f8453a6-b638-4936-8e18-7bf4b1421718" configVersion="eb0a18d81b5615c9daa08637170cbf5549eb056b"/>
+		<Metadata name="Configuration.ОграничениеНаЗапускНесколькихСеансов.ManagedApplicationModule" id="3c7d7558-67cd-4c00-b443-e501389330ba.6" configVersion="66cd000378ffd3f81c3900970eaff2a3113d4f43"/>
+		<Metadata name="Language.Русский" id="b640380c-80d2-447e-b935-917f808fe7b8" configVersion="1cee4db3271e0cbd7ad7e8c842c27abd0d0bc071"/>
+		<Metadata name="Role.ОНС_ОсновнаяРоль" id="89d2e85d-4714-4cd0-9402-8c6bb9e9f6d4" configVersion="ce798b78b7c60e84f5097134e71b50e4ccc14481"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
